@@ -1,0 +1,8 @@
+fish.txt
+--------
+A fish is any member of a group of organisms that consist of
+all gill-bearing aquatic craniate animals that lack limbs with
+digits. They form a sister group to the tunicates, together
+forming the olfactores. Included in this definition are
+lampreys and cartilaginous and bony fish as well as various
+extinct related groups.
